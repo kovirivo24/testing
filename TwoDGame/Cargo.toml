@@ -1,0 +1,13 @@
+[package]
+name = "two_dgame"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-trait = "0.1.73"
+engine = {path="../scene2d"}
+winit = "0.28.7"
+kira = "0.8.5"
+

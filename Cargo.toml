@@ -1,0 +1,3 @@
+[workspace]
+members = ["scene2d", "twodgame"]
+resolver = "2"
